@@ -1,6 +1,6 @@
 import React from 'react';
 import'./App.css';
-import MostrarTexto from 'src\TA5.jsx';
+import MostrarTexto from '.\TA5.jsx';
 
 function App() {
   return (
